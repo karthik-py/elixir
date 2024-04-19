@@ -1,4 +1,4 @@
-defmodule karthi do
+defmodule Karthi do
     def elixir do
        IO.puts("hello world")
        
